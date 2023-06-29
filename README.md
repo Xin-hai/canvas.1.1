@@ -1,4 +1,5 @@
 # canvas.1.1 简易画图
+# 预览链接：[简易画图](https://xin-hai.github.io/canvas.1.1/index.html)
 
 ## 一、禁用缩放
     
